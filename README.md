@@ -22,6 +22,6 @@ https://github.com/dracula/windows-terminal
 
 ## Getting Started
 ```
-cd HNY_2020
+cd hny_2020
 python -u hny.py
 ```
